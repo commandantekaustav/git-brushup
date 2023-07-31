@@ -1,5 +1,5 @@
-def add(a,b) -> (int, int):
-    return a+b;
+def add(a,b,c) -> (int, int, int):
+    return a+b+c;
 
 def sub(a,b) -> (int, int):
     return a-b
